@@ -1,16 +1,20 @@
-import React from "react";
+// import logo from './logo.svg';
 import './App.css';
-import Counter from "./Counter";
+import React from 'react';
+import {Header} from './components/Header';
+import CHeader from './components/CHeader';
 
-function App() {
+// Class Component
+class App extends React.Component
+{
+  render(){
     return (
-    <div className="App">
-      <header className="App-header">
-      <h2>Welcome to my counter :)</h2>
-      <Counter />
-      </header>
-    </div>
-  );
+      <div className="App">
+        <Header/>
+        <CHeader/>
+      </div>
+    );
+  }
 }
 
 export default App;
