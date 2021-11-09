@@ -6,4 +6,7 @@ const Create = () => {
   );
 }
 
+export default Create;
+
+
 // rsc shoertcut
