@@ -1,0 +1,21 @@
+
+
+ npm install @material-ui/core @material-ui/icons @stripe/react-stripe-js @stripe/stripe-js 
+react-router-dom react-hook-form
+
+npm install @chec/commerce.js
+
+npm i react-router-dom
+
+npm i @fontsource/roboto
+
+npm i formik
+
+npm i react-hook-form
+
+npm i @material-ui/lab
+
+npm i styled-components
+
+npm i yup
+
